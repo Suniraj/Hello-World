@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Gittrial
+//  sample
 //
-//  Created by Suneetha Ragupatula on 2/28/18.
+//  Created by Suneetha Ragupatula on 3/1/18.
 //  Copyright © 2018 Suneetha Ragupatula. All rights reserved.
 //
 
